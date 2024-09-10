@@ -24,3 +24,5 @@ changeColorHex.addEventListener('click', () => {
 function generateRandomNumber(max){
     return Math.floor(Math.random() * max);
 }
+
+// Changed it
